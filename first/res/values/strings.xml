@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirstLabWork</string>
+
+    <string name="thirdActivityButton">Third activity</string>
+    <string name="secondActivityButton">Second activity</string>
+    <string name="textView">Text View</string>
+    <string name="addTitleText">Title</string>
+    <string name="addDescriptionText">Description</string>
+    <string name="addButton">Add</string>
+</resources>
