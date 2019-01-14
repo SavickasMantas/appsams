@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="z">z-row</string>
+    <string name="y">y-row</string>
+    <string name="x">x-row</string>
+    <string name="start">Start</string>
+    <string name="no_sensor">No sensor</string>
+    <string name="stop">Stop</string>
+    <string name="CoordinatesGPS">GPS:</string>
+    <string name="coordinatesNet">NET:</string>
+    <string name="Latitude_text">Latitude</string>
+    <string name="longitude_text">Longitude</string>
+    <string name="Take_Photo">Take Photo</string>
+    <string name="position">Position:</string>
+
+    <string name="sotw_north">N</string>
+    <string name="sotw_east">E</string>
+    <string name="sotw_south">S</string>
+    <string name="sotw_west">W</string>
+    <string name="sotw_northeast">NE</string>
+    <string name="sotw_northwest">NW</string>
+    <string name="sotw_southeast">SE</string>
+    <string name="sotw_southwest">SW</string>
+
+    <string name="compass_dial">Compass Dial</string>
+    <string name="compass_hands">Compass Hands</string>
+</resources>
